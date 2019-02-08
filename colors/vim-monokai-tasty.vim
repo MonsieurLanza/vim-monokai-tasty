@@ -89,7 +89,7 @@ call Highlight("Type", s:none, s:none, s:none)
 
 call Highlight("Visual", s:none, s:dark_grey, s:none)
 call Highlight("TabLine", s:light_grey, s:dark_grey, s:underline)
-call Highlight("Whitespace", s:dark_grey, s:none, s:none)
+call Highlight("Whitespace", s:darker_grey, s:none, s:none)
 
 call Highlight("TabLineSel", s:none, s:charcoal, s:bold)
 
